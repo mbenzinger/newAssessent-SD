@@ -1,0 +1,9 @@
+/* add code here to make your image 300px square */
+img {width:300px;}
+/* add code here to change the color and font family of your name/title */
+title {
+font: Helvetica;
+  Color: darkblue;
+  }
+/* Bonus: change the color of your list elements */
+ol {color: darkblue}
